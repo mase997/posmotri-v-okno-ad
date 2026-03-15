@@ -1,1 +1,1 @@
-для тестов
+https://github.com/mase997/posmotri-v-okno-ad.git
